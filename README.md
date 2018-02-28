@@ -1,6 +1,21 @@
 # Gas-Pump-Application
 This is a object oriented Java Application which consists of Gas Pump components designed using Model Driven Architecture(MDA) and implemented using Creational and Structural Design patterns.
  
+## Usage:
+Steps to execute the GasPump executable:
+1. Clone the reposiitory
+2. Find the GasPump.bat and double click on the batch file.
+3. The application is triggered and ready for testing.
+
+#### Test Cases
+##### GasPump1: Sequence of operations showing how one gallon of Regular gas is disposed
+ 1. Activate(3.1, 4.3), Start(), PayCredit(), Approved(), Regular(), StartPump(), PumpGallon(), StopPump()
+ 
+##### GasPump2: Sequence of operations showing how one liter of Premium gas is disposed in GasPump-2 
+ 1. Activate(3, 4, 5), Start(), PayCash(6), Premium(), StartPump(), PumpLiter(), PumpLiter(), NoReceipt()
+
+
+Project Report.pdf - Detailed project report
  ## MDA EFSM State Diagram:
 ![MDA EFSM state diagram](https://github.com/Cheths/Gas-Pump-Application/blob/master/MDA%20EFSM.png?raw=true "MDA EFSM state diagram")
 
