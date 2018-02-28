@@ -1,6 +1,8 @@
 # Gas-Pump-Application
 This is a object oriented Java Application which consists of Gas Pump components designed using Model Driven Architecture(MDA) and implemented using Creational and Structural Design patterns.
-
+ 
+ ## MDA EFSM State Diagram:
+![MDA EFSM state diagram](https://github.com/Cheths/Gas-Pump-Application/blob/master/MDA%20EFSM.png?raw=true "MDA EFSM state diagram")
 
 ## Pattern description:
 
