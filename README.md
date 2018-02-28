@@ -1,9 +1,9 @@
 # Gas-Pump-Application
 This is a object oriented Java Application which consists of Gas Pump components designed using Model Driven Architecture(MDA) and implemented using Creational and Structural Design patterns.
  
-## Usage:
+## Usage: (Repo Not ready, Coming Soon!!)
 Steps to execute the GasPump executable:
-1. Clone the reposiitory
+1. Clone the repository
 2. Find the GasPump.bat and double click on the batch file.
 3. The application is triggered and ready for testing.
 
