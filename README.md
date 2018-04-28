@@ -3,7 +3,9 @@ This is a object oriented Java Application which consists of Gas Pump components
  
 ## Usage:
 Steps to execute the GasPump executable:
-1. Find the GasPump.bat and double click on the batch file or execute the GasPump.jar using the java command `java -jar GasPump.jar`.
+1. Find the GasPump.bat and double click on the batch file or execute the GasPump.jar using the java command      
+`java -jar GasPump.jar`
+
 2. The application is triggered and ready for testing.
 
 ### Add/Modify functionality
@@ -11,15 +13,16 @@ Steps to execute the GasPump executable:
 2. Change the `src` files accordingly
 3. Create a executable jar of your own.
 
-#### Test Cases
+### Test Cases
 ##### GasPump1: Sequence of operations showing how one gallon of Regular gas is disposed
  1. Activate(3.1, 4.3), Start(), PayCredit(), Approved(), Regular(), StartPump(), PumpGallon(), StopPump()
  
 ##### GasPump2: Sequence of operations showing how one liter of Premium gas is disposed in GasPump-2 
  1. Activate(3, 4, 5), Start(), PayCash(6), Premium(), StartPump(), PumpLiter(), PumpLiter(), NoReceipt()
 
+#### [Project requirements](https://github.com/Cheths/Gas-Pump-Application/blob/master/Docs/Project-CS586.pdf) was the initial inputs upon which the application is designed and built.
 
-Project Report.pdf - Detailed project report
+#### [Project Report](https://github.com/Cheths/Gas-Pump-Application/blob/master/Docs/Project%20Report.pdf) - Detailed project report can be found here.
  ## MDA EFSM State Diagram:
 ![MDA EFSM state diagram](https://github.com/Cheths/Gas-Pump-Application/blob/master/MDA%20EFSM.png?raw=true "MDA EFSM state diagram")
 
